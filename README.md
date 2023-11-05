@@ -47,6 +47,8 @@ It contains the home page button(CarCrush), About us, About Project, and upload 
 In this we have given a brief description and the role played by each of them in the project, contact information.
 
 ![image](https://github.com/saadmdsabah/AI-Enabled-car-parking-System/assets/103499208/e52bfb87-6718-41c3-8845-d0bc053fbfca)
+![image](https://github.com/saadmdsabah/AI-Enabled-car-parking-System/assets/103499208/d9d977a6-ccf8-45f6-850f-dd560cc24c41)
+
 
 ## About Project:
 In this we have a brief explanation of our project and how it can be used further by integrating it with different technologies, some draw backs of this model/system.
