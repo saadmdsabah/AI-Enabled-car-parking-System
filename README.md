@@ -36,7 +36,7 @@ The system uses a camera and OpenCV (Open Source Computer Vision) library to cap
 
 o	Build python script for Flask
 
-##For this project, we have created 5 HTML files and saved them in the templates folder. Let’s see what HTML pages look like:
+## For this project, we have created 5 HTML files and saved them in the templates folder. Let’s see what HTML pages look like:
 
 ## main page: 
 It contains the home page button(CarCrush), About us, About Project, and upload button where you can upload your video(for the same scenario) and check how many slots are empty/full. 
