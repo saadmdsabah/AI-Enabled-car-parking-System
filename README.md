@@ -25,3 +25,14 @@ To complete this project you must have the following software versions and packa
 
 ●	flask
 
+Project Flow:
+
+
+●	Data Collection o Download the video
+
+●	Video Processing and object detection o Import required libraries o Checking for parking space o Looping the video o Frame processing and empty parking slot counters
+
+●	Application building o Build HTML
+
+o	Build python script for Flask
+
