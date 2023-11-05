@@ -36,7 +36,7 @@ The system uses a camera and OpenCV (Open Source Computer Vision) library to cap
 
 o	Build python script for Flask
 
-For this project, we have created 5 HTML files and saved them in the templates folder. Let’s see what HTML pages look like:
+##For this project, we have created 5 HTML files and saved them in the templates folder. Let’s see what HTML pages look like:
 
 ## main page: 
 It contains the home page button(CarCrush), About us, About Project, and upload button where you can upload your video(for the same scenario) and check how many slots are empty/full. 
@@ -69,9 +69,13 @@ This is a customized 404 page not found page which is shown when you search for 
 
 ## Run the application
 ●	Navigate to the folder where your python script is.
+
 ●	Now type the “python app.py” command
+
 ●	Navigate to the localhost where you can view your web page.
-●	Click on the predict button from the top right corner, enter the inputs, click on the submit button, and see the result/prediction on the web.
+
+●	Click on the Check button to see the result/prediction.
+
 
 ![image](https://github.com/saadmdsabah/AI-Enabled-car-parking-System/assets/103499208/32207286-2f3d-4a7d-8270-a8b9543da650)
 
