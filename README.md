@@ -40,5 +40,47 @@ For this project, we have created 5 HTML files and saved them in the templates f
 
 ## main page: 
 It contains the home page button(CarCrush), About us, About Project, and upload button where you can upload your video(for the same scenario) and check how many slots are empty/full. 
+
 ![image](https://github.com/saadmdsabah/AI-Enabled-car-parking-System/assets/103499208/554ac189-d812-4fcb-a3de-622f1a49cb7d)
+
+## About us: 
+In this we have given a brief description and the role played by each of them in the project, contact information.
+
+![image](https://github.com/saadmdsabah/AI-Enabled-car-parking-System/assets/103499208/e52bfb87-6718-41c3-8845-d0bc053fbfca)
+
+## About Project:
+In this we have a brief explanation of our project and how it can be used further by integrating it with different technologies, some draw backs of this model/system.
+
+![image](https://github.com/saadmdsabah/AI-Enabled-car-parking-System/assets/103499208/a26300c7-8597-4623-b5c9-9c759144fdde)
+
+## Thankyou page:
+
+![image](https://github.com/saadmdsabah/AI-Enabled-car-parking-System/assets/103499208/0052eb53-97bd-4f7a-8a70-764a9f093ffb)
+
+## Error 404 page:
+This is a customized 404 page not found page which is shown when you search for a directory which doesn’t exist in the server.
+
+![image](https://github.com/saadmdsabah/AI-Enabled-car-parking-System/assets/103499208/eb849f0c-b797-4db3-a958-b596c13bbfc1)
+
+### We have also added message box which helps the user to understand the error in a better manner.
+![image](https://github.com/saadmdsabah/AI-Enabled-car-parking-System/assets/103499208/71528c1d-1393-4496-9a19-51c48eacf5d9)
+
+![image](https://github.com/saadmdsabah/AI-Enabled-car-parking-System/assets/103499208/60909a21-048b-4d5d-9b88-00f1669917a2)
+
+## Run the application
+●	Navigate to the folder where your python script is.
+●	Now type the “python app.py” command
+●	Navigate to the localhost where you can view your web page.
+●	Click on the predict button from the top right corner, enter the inputs, click on the submit button, and see the result/prediction on the web.
+
+![image](https://github.com/saadmdsabah/AI-Enabled-car-parking-System/assets/103499208/32207286-2f3d-4a7d-8270-a8b9543da650)
+
+## Output:
+### Click on the ‘Check’ button.
+
+![image](https://github.com/saadmdsabah/AI-Enabled-car-parking-System/assets/103499208/5f292c77-12e5-4611-befe-1249c4fc63e4)
+
+### Result:
+
+![image](https://github.com/saadmdsabah/AI-Enabled-car-parking-System/assets/103499208/5e3c4903-c44a-4ad0-b16b-ce1ec378ba16)
 
