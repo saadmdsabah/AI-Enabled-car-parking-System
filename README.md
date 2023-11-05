@@ -13,8 +13,15 @@ Architecture:
 ![image](https://github.com/saadmdsabah/AI-Enabled-car-parking-System/assets/103499208/12704f47-0d6e-4d1b-a8a1-c4db259d9e43)
 
 To complete this project you must have the following software versions and packages.
+
+
 ●	VScode (https://code.visualstudio.com/Download)
+
 ●	Python (Download: https://www.python.org/downloads/release/python-370/ )
+
 ●	opencv-python
+
 ●	cvzone
+
 ●	flask
+
