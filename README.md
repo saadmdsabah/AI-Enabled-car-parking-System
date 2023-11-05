@@ -9,4 +9,5 @@ The system uses a camera and OpenCV (Open Source Computer Vision) library to cap
 
 
 Architecture:
+![image](https://github.com/saadmdsabah/AI-Enabled-car-parking-System/assets/103499208/12704f47-0d6e-4d1b-a8a1-c4db259d9e43)
 
