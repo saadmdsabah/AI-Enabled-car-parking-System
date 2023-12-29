@@ -8,30 +8,22 @@ AI-enabled car parking using OpenCV is a computer vision-based project that aims
 The system uses a camera and OpenCV (Open Source Computer Vision) library to capture live video footage of the parking lot.
 
 ## Run the application
-●	Navigate to the folder where your Python script is.
+●	Run the requirements.txt file in the terminal
 
-●	Now type the “python app.py” command
+●	Run app.py file
 
 ●	Navigate to the localhost where you can view your web page.
 
-●	Click on the Check button to see the result/prediction.
+
 ![image](https://github.com/saadmdsabah/AI-Enabled-car-parking-System/assets/103499208/32207286-2f3d-4a7d-8270-a8b9543da650)
+
+●	Upload a video(.mp4 file type)
+
+●	Click on the Check button to see the result.
 
 ## Architecture:
 
 ![image](https://github.com/saadmdsabah/AI-Enabled-car-parking-System/assets/103499208/12704f47-0d6e-4d1b-a8a1-c4db259d9e43)
-
-## Project Flow:
-
-●	Data Collection o Download the video
-
-●	Video Processing and object detection o Import required libraries o Checking for parking space o Looping the video o Frame processing and empty parking slot counters
-
-●	Application building o Build HTML
-
-o	Build python script for Flask
-
-## For this project, we have created 5 HTML files and saved them in the templates folder. Let’s see what HTML pages look like:
 
 ## Main page: 
 It contains the home page button(CarCrush), About us, About Project, and the upload button where you can upload your video(for the same scenario) and check how many slots are empty/full. 
@@ -63,11 +55,6 @@ This is a customized 404 page not found page which is shown when you search for 
 ![image](https://github.com/saadmdsabah/AI-Enabled-car-parking-System/assets/103499208/71528c1d-1393-4496-9a19-51c48eacf5d9)
 
 ![image](https://github.com/saadmdsabah/AI-Enabled-car-parking-System/assets/103499208/60909a21-048b-4d5d-9b88-00f1669917a2)
-
-## Output:
-### Click on the ‘Check’ button.
-
-![image](https://github.com/saadmdsabah/AI-Enabled-car-parking-System/assets/103499208/5f292c77-12e5-4611-befe-1249c4fc63e4)
 
 ### Result:
 
